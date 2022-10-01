@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi this is sample code 
 
 second line
+=======
+Hi this is sample code 
+>>>>>>> parent of 4c47a61 (second commit)
